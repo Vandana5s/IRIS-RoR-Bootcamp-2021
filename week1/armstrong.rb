@@ -21,5 +21,4 @@ def armstrong_number(n)
     end
 
     return false
-
 end
